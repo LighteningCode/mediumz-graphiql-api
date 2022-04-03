@@ -40,6 +40,7 @@ const AuthorType = new GraphQLObjectType({
     id: { type: GraphQLNonNull(GraphQLInt) },
     name: { type: GraphQLNonNull(GraphQLString) },
     image: { type: GraphQLNonNull(GraphQLString) },
+    portfolio: { type: GraphQLNonNull(GraphQLString) },
     articles: {
       type: new GraphQLList(ArticleType),
       resolve: (author) => {
