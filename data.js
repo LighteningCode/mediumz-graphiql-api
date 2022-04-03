@@ -215,4 +215,22 @@ exports.authors = [
         name: "James Surowiecki",
         image: "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80"
     },
+    {
+        id: 11,
+        portfolio:"Motion Graphic Artist",
+        name: "Erica Write",
+        image: "https://images.unsplash.com/photo-1599842057874-37393e9342df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        id: 12,
+        portfolio:"UI Designer",
+        name: "Lilly Ariison",
+        image: "https://images.unsplash.com/photo-1496440737103-cd596325d314?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        id: 13,
+        portfolio:"Ex-President",
+        name: "Barak Obama",
+        image: "https://images.unsplash.com/photo-1580130379624-3a069adbffc5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=726&q=80"
+    },
 ];
